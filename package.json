@@ -32,9 +32,9 @@
   "homepage": "https://github.com/mapbox/tile-stat-stream#readme",
   "devDependencies": {
     "eslint": "^0.24.0",
-    "mbtiles": "^0.8.0",
+    "@mapbox/mbtiles": "^0.11.0",
     "tape": "^4.0.0",
-    "tilelive": "^5.8.2"
+    "@mapbox/tilelive": "^6.1.0"
   },
   "dependencies": {
     "es6-set": "^0.1.1",
